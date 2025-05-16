@@ -1,2 +1,2 @@
-# Projects
-It consist of Some quality Projects
+# whether-prediction
+ Predict Rainfall and Crop prediction
