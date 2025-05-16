@@ -1,2 +1,2 @@
-# whether-prediction
+# weather-prediction
  Predict Rainfall and Crop prediction
